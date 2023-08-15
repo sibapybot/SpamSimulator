@@ -1,0 +1,2 @@
+# SpamSimulator
+discordのスパムを再現しアンチスパムBOT等の開発を加速させるプロジェクトです。
